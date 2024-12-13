@@ -1,0 +1,23 @@
+{
+  "name": "berr2433",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnisahh/berr2433.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnisahh/berr2433/issues"
+  },
+  "homepage": "https://github.com/hnisahh/berr2433#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1"
+  }
+}
